@@ -18,9 +18,9 @@ public class Main {
 				"easyAccept/us3_test.txt", 
 				"easyAccept/us4_test.txt", 
 				"easyAccept/us5_test.txt", 
-				/*"easyAccept/us6_test.txt", 
+				"easyAccept/us6_test.txt", 
 				"easyAccept/us7_test.txt",
-				"easyAccept/us8_test.txt"*/ };
+				"easyAccept/us8_test.txt" };
 
 		EasyAccept.main(args);
 	}
